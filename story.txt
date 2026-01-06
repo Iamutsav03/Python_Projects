@@ -1,0 +1,2 @@
+Once upon a time in <place_name>, there was a <adjective> person named <character_name>.
+Every day, <character_name> loved to <verb> near the <location>.
